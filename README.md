@@ -20,8 +20,8 @@ A little checklist to reference in preparation for launching a project
 
 - [ ] Create Favicon
   - [ ] If relevant, create device-specific icons
-- [ ] Add proper data to `keywords` and `description` meta tags
-- [ ] Add Open Graph meta data
+- [ ] Add Proper Meta data
+  - [ ] `description`
   - [ ] `og:locale`
   - [ ] `og:type`
   - [ ] `og:url`
