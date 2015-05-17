@@ -1,13 +1,6 @@
 # launchlist
 A little checklist to reference in preparation for launching a project
 
-## To Do:
-
-- [ ] Complete List
-- [ ] Make simple HTML version
-- [ ] Add Wordpress version (we work with Wordpress Regularly)
-- [ ] Add Rails version (we work with Rails Regularly)
-
 ### Pre-launch Checklist
 
 - [ ] **Remove all lorem ipsum** — All content is approved and final
@@ -43,3 +36,13 @@ A little checklist to reference in preparation for launching a project
 - [ ] [Validate markup](http://validator.w3.org/) to check for stray/unclosed tags etc.
 - [ ] Create README or other documentation as needed for ongoing projects or future developers
 - [ ] Remove any unneeded files from the project directory
+- [ ] 
+
+---
+
+- ## To Do:
+
+- [ ] Complete List
+- [ ] Make simple HTML version
+- [ ] Add Wordpress version (we work with Wordpress Regularly)
+- [ ] Add Rails version (we work with Rails Regularly)
